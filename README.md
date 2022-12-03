@@ -1,1 +1,1 @@
-# patika-odevler-repo
+# Patika Ödev - C# - Değişkenler ve Veri Tipleri 
