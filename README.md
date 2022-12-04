@@ -1,2 +1,2 @@
-# Patika Ödev1 - C# - Değişkenler ve Veri Tipleri 
+# Patika C# Ödev1 - Değişkenler ve Veri Tipleri 
 <www.patika.dev>
